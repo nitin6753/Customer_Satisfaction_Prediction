@@ -4,13 +4,7 @@ The airline is interested in predicting whether a future customer would be satis
 The data set is provided in [Customer_Survey.csv](Customer_Survey.csv).<br>
 
 Decision Tree model is built in [Build_decision_tree.ipynb](Build_decision_tree.ipynb).<br>
-In this file, the following steps were taken to build the model:
-> * Explored the data and completed the cleaning process
-> * Built a decision tree model 
-> * performed Tuning of hyperparameters using `GridSearchCV`
-> * Evaluated the decision tree model using a confusion matrix and various other plots
 
-### Summary
 > * Tasks Performed:
 >   * Conducted extensive EDA, cleaned and structured the dataset for analysis.
 >   * Tuned model hyperparameters such as max_depth and min_samples_leaf through grid search and cross-validation.
