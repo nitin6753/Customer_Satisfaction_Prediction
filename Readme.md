@@ -12,13 +12,16 @@ In this file, I,
 
 ### Summary
 * Tasks Performed:
-> Conducted extensive EDA, cleaned and structured the dataset for analysis.
-> Tuned model hyperparameters such as max_depth and min_samples_leaf through grid search and cross-validation.
-> Developed a Decision Tree Model to predict the customer satisfaction using 21 features.
-> Evaluated model performance, achieving an average F1 score of 94.5% and other metrics including an accuracy of 94.0%, recall of 93.5%, and precision of 95.5%.
-> Identified key features influencing customer satisfaction: 'Inflight entertainment,' 'Seat comfort,' and 'Ease of Online booking'.
+> * Conducted extensive EDA, cleaned and structured the dataset for analysis.
+> * Tuned model hyperparameters such as max_depth and min_samples_leaf through grid search and cross-validation.
+> * Developed a Decision Tree Model to predict the customer satisfaction using 21 features.
+> * Evaluated model performance, achieving an average F1 score of 94.5% and other metrics including an accuracy of 94.0%, recall of 93.5%, and precision of 95.5%.
+> * Identified key features influencing customer satisfaction: 'Inflight entertainment,' 'Seat comfort,' and 'Ease of Online booking'.
+<br>
 Key Result Areas:
-> Highlighted the critical impact of 'Inflight entertainment,' 'Seat comfort,' and 'Ease of Online booking' on customer satisfaction.
-> Demonstrated the efficacy of decision trees in predicting customer satisfaction metrics accurately.
+> * Highlighted the critical impact of 'Inflight entertainment,' 'Seat comfort,' and 'Ease of Online booking' on customer satisfaction.
+> * Demonstrated the efficacy of decision trees in predicting customer satisfaction metrics accurately.
+<br>
 Recommended: Enhancements in inflight entertainment, seat comfort, and online booking could boost customer satisfaction.
+<br>
 Skills Demonstrated: Data Wrangling, Decision Tree Algorithms, Hyperparameter Tuning, Statistical Analysis, Cross-validation.
