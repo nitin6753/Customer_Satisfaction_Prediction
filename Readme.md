@@ -4,7 +4,7 @@ The airline is interested in predicting whether a future customer would be satis
 The data set is provided in [Customer_Survey.csv](Customer_Survey.csv).<br>
 
 Decision Tree model is built in [Build_decision_tree.ipynb](Build_decision_tree.ipynb).<br>
-[Images](Images) folder contains various plots like [confusion Matrix]('Images/Confusion Metrics.png'), Decision Tree Plot, Feature Importances, and Evaluation Metrics
+[Images](Images) folder contains various plots like [confusion Matrix](ConfusionasdMetrics), Decision Tree Plot, Feature Importances, and Evaluation Metrics
 > * Tasks Performed:
 >   * Conducted extensive EDA, cleaned and structured the dataset for analysis.
 >   * Tuned model hyperparameters such as max_depth and min_samples_leaf through grid search and cross-validation.
