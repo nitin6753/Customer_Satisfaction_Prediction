@@ -4,7 +4,7 @@ The airline is interested in predicting whether a future customer would be satis
 The data set is provided in [Customer_Survey.csv](Customer_Survey.csv).<br>
 
 Decision Tree model is built in [Build_decision_tree.ipynb](Build_decision_tree.ipynb).<br>
-In this file, I,
+In this file, the following steps were taken to build the model:
 > * Explored the data and completed the cleaning process
 > * Built a decision tree model 
 > * performed Tuning of hyperparameters using `GridSearchCV`
