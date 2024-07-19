@@ -11,8 +11,8 @@ The airline is interested in predicting whether a future customer would be satis
 >   * Conducted extensive `EDA`, `cleaned` and `structured` the dataset for analysis.
 >   * `Tuned hyperparameters` of all models through `grid search` and `cross-validation`.
 >   * Developed an optimal `Decision Tree`, `Random Forest`, `Gradient Boost` Model to predict the customer satisfaction using 21 features.
->   * Evaluated the model performance on validation sets, and then selected Gradient Boosting model as the champion, achieving an F1 score of 96.05% and other metrics including an accuracy of 95.70%, recall of 95.02%, and precision of 97.10%.
->   * Identified key features influencing customer satisfaction: 'Seat comfort', 'Inflight entertainment,' and 'Customer loyalty'.
+>   * Evaluated the model performance on validation sets, and then selected Gradient Boosting model as the champion, achieving an `F1 score of 96.05%` and other metrics including an accuracy of 95.70%, recall of 95.02%, and precision of 97.10%.
+>   * Identified key features influencing customer satisfaction: `Seat comfort`, `Inflight entertainment`, and `Customer loyalty`.
 
 > * Recommended: Enhancements in inflight entertainment, seat comfort could boost customer satisfaction.
 
